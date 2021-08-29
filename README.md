@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tazbinahad
-- 👀 I’m interested to be a Best Web Developer
+- 👀 I’m interested to be a Full Stack Web Developer
 - 🌱 I’m currently learning "javascript"
-- 💞️ I’m looking for a job to give me a professional look ...
+- 💞️ I’m looking for a job environment to give me a professional look ...
 - 📫 Contact me by skype: live:tazbinahad20
 
 <!---
