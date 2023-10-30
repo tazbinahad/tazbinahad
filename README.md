@@ -4,8 +4,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tazbinahad&label=Profile%20views&color=0e75b6&style=flat" alt="tazbinahad" /> </p>
 
 - 🔭 I’m currently working on **iBOS Lmited**
-
 - 🌱 I’m currently learning **Redux**
+- 🌱 I’m currently learning **Node Js**
+- 🌱 I’m currently learning **Express Js**
+- 🌱 I’m currently learning **SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
