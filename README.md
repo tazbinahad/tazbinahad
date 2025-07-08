@@ -25,7 +25,6 @@ Git & GitHub • VS Code • Figma (UI Collaboration) • Postman • NPM/Yarn �
 
 - 💰 [Expense Management System](https://github.com/tazbinahad/expense-management) – Personal finance tracking tool with meal rate & member expense reports.
 - 🧱 Shared React Component Library – Custom reusable components for internal projects.
-- 🔋 Modular Battery Pack Design – Personal side project on scalable 12V battery packs with 18650 cells.
 
 ## 🌱 Currently Exploring
 
@@ -38,7 +37,7 @@ Git & GitHub • VS Code • Figma (UI Collaboration) • Postman • NPM/Yarn �
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tazbinahad)
 - ✉️ Email: tazbinahad@gmail.com
-- 🌍 Portfolio: [tazbin.dev](https://tazbin.dev) *(if you plan to launch one)*
+- 🌍 Portfolio: [tazbin.dev](https://tazbin.dev) 
 
 ---
 
